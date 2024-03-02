@@ -7,27 +7,27 @@ I mostly work with
     <img height="90" width="90" src="./assets/icons8-java-240.png" alt="java-coffee-cup-logo"/>
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" height="100"/>
+        <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="golang-logo" height="100"/>
     </a>
 </p>
 
 ### Database
 <p float="left">
     <a href="https://www.postgresql.org/" target="_blank" >
-        <img height="80" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postresql"/>
+        <img height="80" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postresql-logo"/>
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://aerospike.com/wp-content/uploads/2021/05/Aerospike-logo-square-red.png" height="80"/>
+        <img src="https://aerospike.com/wp-content/uploads/2021/05/Aerospike-logo-square-red.png" alt="aerospike-logo" height="80"/>
     </a>
 </p>
 
 ### Devops
 <p float="left">
     <a href="https://www.docker.com/" target="_blank" >
-        <img height="80" src="./assets/docker-mark-blue.png" alt="docker"/>
+        <img height="80" src="./assets/docker-mark-blue.png" alt="docker-logo"/>
     </a>
     <a href="https://kubernetes.io/" target="_blank">
-        <img src="./assets/k8s.png" height="90"/>
+        <img src="./assets/k8s.png" alt="k8s-logo" height="90"/>
     </a>
 </p>
 
