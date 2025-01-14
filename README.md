@@ -3,11 +3,11 @@ I am [Koushik](https://www.linkedin.com/in/koushik-maharaj-2a540199/), a softwar
 
 I mostly work with
 <p float="left">
-    <a href="https://www.java.com/en/" target="_blank">
-        <img height="90" width="90" src="./assets/icons8-java-240.png" alt="java-coffee-cup-logo"/>
-    </a>
     <a href="https://go.dev/" target="_blank">
         <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="golang-logo" height="100"/>
+    </a>
+    <a href="https://www.java.com/en/" target="_blank">
+        <img height="90" width="90" src="./assets/icons8-java-240.png" alt="java-coffee-cup-logo"/>
     </a>
 </p>
 
