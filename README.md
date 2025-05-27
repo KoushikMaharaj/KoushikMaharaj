@@ -30,7 +30,7 @@ I mostly work with
         <img height="80" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postresql-logo"/>
     </a>
     <a href="https://aerospike.com/" target="_blank">
-        <img src="https://us1.discourse-cdn.com/flex019/uploads/aerospike/original/2X/f/f9eaac48c74a2b5f0398b56ddd1e7be2aa992e41.png" alt="aerospike-logo" height="80"/>
+        <img src="https://us1.discourse-cdn.com/flex019/uploads/aerospike/original/2X/f/f9eaac48c74a2b5f0398b56ddd1e7be2aa992e41.png" alt="aerospike-logo" height="40"/>
     </a>
 </p>
 
